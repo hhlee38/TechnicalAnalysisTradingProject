@@ -2,6 +2,7 @@
 ## Author: Henry H Lee
 ## Date Completed: November 26, 2020
 ## Course: ORIE 5252 - Quantitative Portfolio Management
+## Semester: Fall 2020
 ## Professor: Val Prasad
 
 Final Paper File: ExploringTradingStrategiesUsingTechnicalIndicators.pdf  
