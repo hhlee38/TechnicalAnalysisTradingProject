@@ -4,5 +4,5 @@
 ## Course: ORIE 5252 - Quantitative Portfolio Management
 ## Professor: Val Prasad
 
-Final Paper File: ExploringTradingStrategiesUsingTechnicalIndicators.pdf
+Final Paper File: ExploringTradingStrategiesUsingTechnicalIndicators.pdf  
 Project Code in Jupyter Notebook: ProjectCode.ipynb
